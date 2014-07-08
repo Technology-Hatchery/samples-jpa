@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tutorial/datanucleus-samples-jpa-tutorial.iml" filepath="$PROJECT_DIR$/tutorial/datanucleus-samples-jpa-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/osgi_basic/src/main/tutorial.iml" filepath="$PROJECT_DIR$/osgi_basic/src/main/tutorial.iml" />
+    </modules>
+  </component>
+</project>
+

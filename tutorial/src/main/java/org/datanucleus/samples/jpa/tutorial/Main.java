@@ -39,6 +39,7 @@ public class Main
 {
     public static void main(String args[])
     {
+
         // Create an EntityManagerFactory for this "persistence-unit"
         // See the file "META-INF/persistence.xml"
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("Tutorial");
@@ -165,6 +166,7 @@ public class Main
         }
         System.out.println(""); 
 
+        /*
         // Clean out the database
         em = emf.createEntityManager();
         tx = em.getTransaction();
@@ -213,5 +215,6 @@ public class Main
         System.out.println("");
         System.out.println("End of Tutorial");
         emf.close();
+        */
     }
 }
